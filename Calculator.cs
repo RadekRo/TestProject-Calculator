@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestProject_Calculator;
 
-internal class Calculator
+public class Calculator
 {
     public object Divide(int a, int b)
     {
