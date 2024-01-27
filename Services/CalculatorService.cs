@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestProject_Calculator;
+namespace TestProject_Calculator.Services;
 
-public class Calculator
+public class CalculatorService
 {
     public object Divide(int a, int b)
     {
